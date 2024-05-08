@@ -1,0 +1,1 @@
+This is the first part of the project that simulates an Airbnb application in which we are creating a way to control the modules that our web page will use by intervening in a database in JSON format. Here, we apply object-oriented programming, python data translation and command-interpreted logic to deliver a local database that commands can modify.
