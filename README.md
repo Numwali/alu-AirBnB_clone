@@ -25,22 +25,22 @@ The console will perform the following tasks:
 * do operations on objects
 * destroy an object
 
-## Storage
+### Storage
 
 All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 
-##  Environment
+###  Environment
 
 <!-- ubuntu -->
-Ubuntu
-python 
-html5
-css
-javascript
-vim 
-visual studio code
-git 
-gitbash
+* Ubuntu
+* python 
+* html5
+* css
+* javascript
+* vim 
+* visual studio code
+* git 
+* gitbash
 
 
  <!-- Style guidelines -->
