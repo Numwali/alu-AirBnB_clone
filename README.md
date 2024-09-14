@@ -271,5 +271,5 @@ git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
-  ```Simeon Azeh Kongnyuy, Aubine
+  ```Noella Umwali. Ayomide Agbaje
   
